@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container2 {
+    background-image: url(https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/129325364/original/afaddcb9d7dfaaf5bff7ef04101935814665ac16/design-an-attractive-background-for-your-website.png);
+    height: 50vw;
+    color: white;
+
+}
+
+.navbar {
+    height: 50px;
+    width: 90vw;
+    color: white
+}
+
+ul {
+    display: flex;
+    justify-content: end;
+}
+
+li {
+    margin: 12px;
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    font-size: 35px;
+}
+
+.container {
+    display: flex;
+    background: no-repeat;
+}
+
+.container1 {
+    margin-top: 180px;
+    margin-left: 90px;
+}
+
+h1 {
+    font-size: 73px;
+    color: white;
+}
+
+p {
+    margin-top: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+img {
+    height: 550px;
+    width: 600px;
+    margin-top: 70px;
+    margin-left: 100px;
+    border-radius: 200px;
+}
+
+.box {
+    display: flex;
+}
+
+.left {
+
+    margin-top: 130px;
+    margin-left: 200px;
+}
+
+.right {
+    margin-top: 130px;
+    margin-left: 600px;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+input {
+    width: 500px;
+    padding: auto;
+}
+
+p1 {
+    margin-top: 30px;
+}
+
+.btn {
+    width: 50px;
+}
+
+button {
+    height: 30px;
+    width: 60px;
+    margin-left: 320px;
+    margin-top: 20px;
+    background-color: rgb(75, 55, 253);
+}
